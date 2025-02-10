@@ -9,8 +9,8 @@ I've first made one variant with some cheap MDF. I recommend you to also first b
 Pictures are only of the 2nd Variant (since thats the only thing I made).
 Reason I've added a 1st variant is that not everyone would probably like the 12HP rails on the side.
 
-![My Image](images/image1.png)
-![My Image](images/image2.png)
+![My Image](images/image1.jpg)
+![My Image](images/image2.jpg)
 
 # Variant 1
 
@@ -53,7 +53,7 @@ For the best look you'll need to cnc holes on the inside for the floor panel and
 If you don't have a cnc, you could simply add some L shaped brackets inside and screw them. Of course for strength and stability it's better to cnc some holes.
 
 See drawing for the dimensions
-![Dimensions](images/sizes.png)
+![Dimensions](images/sizes.jpg)
 
 After routing the holes on the inside, cut the angled sides. Double check if the orientation is right.
 
@@ -161,7 +161,7 @@ Easiest is to first construct the top brackets.
 Then you'll need to cut part of the 12HP rails (top, on the inside) so they fit in the corner, 
 like so : 
 
-![Dimensions](images/bracket.png)
+![Dimensions](images/bracket.jpg)
 
 Don't forget to also put 12HP threaded rails in there. If you forget you have to take the whole thing apart in the end (.. this happened to me).
 The construction is not strong, be carefuly to not break the 12HP brackets.
@@ -184,6 +184,8 @@ things stay in place. If you try to put it together horizontally it's more diffi
 
 Just lower the whole rails construction with 12HP bracket into the hole. 
 Follow the same procedure as with variant 1.
+
+![Dimensions](images/fully_constructed.jpg)
 
 ### Optional rubber strip
 
