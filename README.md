@@ -42,7 +42,7 @@ for the best look also :
 ## Build
 
 ### Brackets
-For the brackets you need to have a bed of minimum 3110mm wide. If thats not possible you could deside to split
+For the brackets you need to have a bed of minimum 3110mm wide. If thats not possible you could decide to split
 the top bracket in 2 parts.
 
 Files can be found here : [files](printables/variant1)
@@ -51,6 +51,7 @@ You need 2 top brackets (without the side panel)
 ### Side panels
 For the best look you'll need to cnc holes on the inside for the floor panel and metal size to fit in.
 If you don't have a cnc, you could simply add some L shaped brackets inside and screw them. Of course for strength and stability it's better to cnc some holes.
+For variant 1 you don't need the square hole in the middle (without 12HP rails).
 
 See drawing for the dimensions
 ![Dimensions](images/sizes.jpg)
