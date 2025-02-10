@@ -199,7 +199,7 @@ Same as for variant 1
 
 - 2 shielded ethernet cables {todo size}. You can typically recognize shielded by the metal bracket on the RJ45 connector. There are some fakes out there. Be sure it's shielded.
 - Optional 2 ethernet cables to connect to another case (also shielded)
-- {TODO} ethernet female to female
+- 4 ethernet female to female (something like this : [ethernet adapter](https://nl.aliexpress.com/item/1005006534359369.html?spm=a2g0o.productlist.main.21.7b87Q88zQ88z0l&algo_pvid=a184063e-fab0-45e1-9258-214a5b195a00&algo_exp_id=a184063e-fab0-45e1-9258-214a5b195a00-10&pdp_ext_f=%7B%22order%22%3A%22356%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2111.41%2110.89%21%21%2111.48%2110.96%21%40210390b817392311089346194e5235%2112000037559813445%21sea%21NL%21927100238%21X&curPageLogUid=colYcPNgF2LF&utparam-url=scene%3Asearch%7Cquery_from%3A)
   
 ## Tools
 - 3d Printer
