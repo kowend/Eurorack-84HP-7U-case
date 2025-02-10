@@ -6,7 +6,11 @@ You may need to measure things and cut items to slightly different size to make 
 Sizes are metric in milimeters.
 
 I've first made one variant with some cheap MDF. I recommend you to also first build with cheap materials.
+Pictures are only of the 2nd Variant (since thats the only thing I made).
+Reason I've added a 1st variant is that not everyone would probably like the 12HP rails on the side.
 
+![My Image](images/image1.png)
+![My Image](images/image2.png)
 
 # Variant 1
 
@@ -17,8 +21,8 @@ This variant doesn't have the side panels.
 - Powersource
 - 6x 84HP Rails
 - 6x 84HP Threaded strip M3 
-- 2x Metal plate {TODO size}
-- 1x Plywood floorpanel 
+- 2x Metal plate 445mm x 100mm 3mm thick
+- 1x Plywood floorpanel 445mm x 314mm, 6 mm thick. (thinner is also ok. I took 8mm for the routed hole, if you take thinner, also adjust the routed hole size.)
 - 2x Wooden panel (20mm thick, 160mm tall (bit taller is better for stability), 500mm deep)
 - Optional rubber strip for stability 
   
@@ -41,14 +45,15 @@ for the best look also :
 For the brackets you need to have a bed of minimum 3110mm wide. If thats not possible you could deside to split
 the top bracket in 2 parts.
 
-Files can be found here : {TODO}
+Files can be found here : [files](printables/variant1)
 You need 2 top brackets (without the side panel)
 
 ### Side panels
 For the best look you'll need to cnc holes on the inside for the floor panel and metal size to fit in.
 If you don't have a cnc, you could simply add some L shaped brackets inside and screw them. Of course for strength and stability it's better to cnc some holes.
 
-See drawing for the dimensions {TODO}
+See drawing for the dimensions
+![Dimensions](images/sizes.png)
 
 After routing the holes on the inside, cut the angled sides. Double check if the orientation is right.
 
@@ -66,8 +71,9 @@ Now put the brackets between the 2 side panels and check the size of the floorpa
 If you have a power source with a seperate plug, and you want it to be on the backside, find some good placement 
 for your plug/power source and cut holes if needed. If you have an external plug, it should be placed on the bottom for stability.
 
-{TODO} picture
+For additional stability I've added L shaped brackets and connected them to the floorboard and side panels
 
+{TODO} picture
 
 ### Metal top and bottom panels
 
@@ -111,8 +117,8 @@ side panel for the 12 HP side rails.
 - 4x 12HP rails (for the side panels, variant 2)
 - 6x 84HP Threaded strip M3 
 - 4x 12HP Threaded strip m3 
-- 2x metal plate {TODO size}
-- 1x plywood floorpanel 
+- 2x Metal plate 445mm x 100mm 3mm thick
+- 1x Plywood floorpanel 445mm x 314mm, 6 mm thick. (thinner is also ok. I took 8mm for the routed hole, if you take thinner, also adjust the routed hole size.)
 - 2x Wooden panel (20mm thick, 160mm tall (bit taller is better for stability), 500mm deep)
 - Optional rubber strip for stability 
 
@@ -135,7 +141,7 @@ Make sure the wood is not too light.
 This part is similar to variant 1. Except for the brackets.
 Print these : 
 
-{TODO}
+[files](printables/variant2)
 
 ### Side panels
 
@@ -155,7 +161,7 @@ Easiest is to first construct the top brackets.
 Then you'll need to cut part of the 12HP rails (top, on the inside) so they fit in the corner, 
 like so : 
 
-{TODO}
+![Dimensions](images/bracket.png)
 
 Don't forget to also put 12HP threaded rails in there. If you forget you have to take the whole thing apart in the end (.. this happened to me).
 The construction is not strong, be carefuly to not break the 12HP brackets.
@@ -201,7 +207,7 @@ Same as for variant 1
 
 First print the 2 parts needed :
 
-{TODO link}
+[files](printables/ethernet)
 
 Now this is a bit tricky since 1U is very narrow.
 Put the female ethernet brackets into the holders.
