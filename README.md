@@ -22,6 +22,7 @@ This variant doesn't have the side panels.
 - 6x 84HP Rails
 - 6x 84HP Threaded strip M3 
 - 2x Metal plate 445mm x 100mm 3mm thick
+- 2x Side panel 391mm x 160mm 20mm thick
 - 1x Plywood floorpanel 445mm x 314mm, 6 mm thick. (thinner is also ok. I took 8mm for the routed hole, if you take thinner, also adjust the routed hole size.)
 - 2x Wooden panel (20mm thick, 160mm tall (bit taller is better for stability), 500mm deep)
 - Optional rubber strip for stability 
@@ -226,3 +227,26 @@ Plum Audio has some nice modules as well. You could also use HMDI instead of RJ4
 I may later add a pcb design + BOM for your own passive routing module. The downside of the Doepfer is that the ethernet port is in the front, not the back.
 
 What is left is routing the ethernet cables to your multicore solution. Plug the shielded cables in, on the inside and route them to your multicore solution.
+
+
+# Tip
+
+I've added a Fusion 360 file in the repo. (Rack_cleanedUp2_v7.f3d)
+You can use it for personal use and navigate the design : 
+
+https://www.autodesk.com/products/fusion-360/personal
+
+
+# Proto build pictures
+
+Unfortunately I didn't make any pictures building my final project (and a bit hesitant to take it apart),
+but I do have some pictures of how I put the prototypes together.
+For this prototype I've used 3cm thick mdf. The brackets in this project are modified for 2cm however.
+Make sure the build is not too light, then it may tip over. One way to solve that is to make it slightly taller (like 170mm or 180mm) instead of 160mm. (MDF is lighter than the wood used in the final project)
+
+
+![Dimensions](images/proto1.jpg)
+![Dimensions](images/proto2.jpg)
+![Dimensions](images/proto3.jpg)
+![Dimensions](images/proto4.jpg)
+![Dimensions](images/proto5.jpg)
